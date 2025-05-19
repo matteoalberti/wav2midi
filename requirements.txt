@@ -1,0 +1,7 @@
+streamlit==1.34.0
+streamlit-elements==0.1.0
+torch==2.2.2
+torchaudio==2.2.2
+librosa==0.10.1
+pretty_midi==0.2.10
+demucs==4.0.0
